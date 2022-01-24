@@ -1,0 +1,6 @@
+C:\Users\LA20305049\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\LA20305049\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\LA20305049\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\Oracle.ManagedDataAccess.dll
+C:\Users\LA20305049\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\LA20305049\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\LA20305049\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
